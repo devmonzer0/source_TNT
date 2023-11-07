@@ -1,7 +1,7 @@
 {
-  "name": "سورس ريفز العربي - 𝗥𝗲𝗙𝘇 𝐀𝐑𝐀𝐁𝐈𝐂",
-  "description": " اهلابك في تنصيب تلثيون ريفز - ",
-  "logo": "https://graph.org/file/125e6d56153a52a90659c.jpg",
+  "name": " - 𝗦𝗢𝗨𝗥𝗖𝗘 𝗧𝗡𝗧 𝐀𝐑𝐀𝐁𝐈𝐂",
+  "description": " اWelcome to the Source Telethon installation TNT- ",
+  "logo": "https://graph.org/file/30b82f5b63877f06c5d97.jpg",
   "keywords": [
     "plugin",
     "modular",
@@ -56,7 +56,7 @@
     },
     "UPSTREAM_REPO": {
       "description": "لاتغيره ابداً",
-      "value": "https://github.com/githupsource/source_reefz",
+      "value": "https://github.com/devmonzer0/Developer-_TNT",
       "required": false
     }
     },
